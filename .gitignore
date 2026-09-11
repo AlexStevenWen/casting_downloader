@@ -1,0 +1,51 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Anaconda environment folder (based on prefix) 
+access_exe/
+access_downloder/  
+
+# IDEs / Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Project specific configs & outputs
+config.json
+*.local.json
+*.accdb
+*.mdb
+*.step
+*.stp
+*.stl
+*.h5
+*.csv
+*.xlsx
+
+input_cad_folder/
+input_db/
+ouput_cad_folder/     
+output_db_table_folder/
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# OS generated files
+.DS_Store
+Thumbs.db
