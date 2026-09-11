@@ -1,4 +1,3 @@
-markdown
 # access_downloader
 
 **access_downloader** is an automated database and CAD file acquisition tool designed to build a synchronized bridge between structured attribute data and unstructured 3D geometric files. It serves as a core data-preprocessing component for the master's thesis research on **Classification and Process Prediction of Gating Systems for Investment Casting of A356 Aluminum Alloy**. By reading JSON configuration files, the tool automatically exports Microsoft Access tables and precisely locates and copies associated CAD (STEP) files.
